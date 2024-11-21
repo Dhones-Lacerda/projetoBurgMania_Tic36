@@ -2,7 +2,7 @@
 
 Projeto de desafio desenvolvido em Angular, na Residência Tic 36
 
-##Uma das principais propostas era desenvolver uma aplicação com a reutilização de componentes reaproveitando assim o codigo.
+## Uma das principais propostas era desenvolver uma aplicação com a reutilização de componentes reaproveitando assim o codigo.
 
  - Componentes:
    - navbar 
